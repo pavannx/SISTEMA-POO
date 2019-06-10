@@ -9,4 +9,4 @@
 
 ?>
 
-<h1>Olá <?php echo $person->getName(); ?> seu cadastro foi concluido</h1>
+<h1>Hello <?php echo $person->getName(); ?> seu cadastro foi concluido</h1>
